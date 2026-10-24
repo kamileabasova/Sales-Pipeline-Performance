@@ -1,2 +1,5 @@
-# Sales-Pipeline-Performance
-Power BI dashboard analyzing sales pipeline performance and key business metrics.
+# Sales Pipeline Performance
+
+## Dashboard Overview
+
+![Sales Pipeline Overview](Sales-Pipeline-Overview.png.png)
